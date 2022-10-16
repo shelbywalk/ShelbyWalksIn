@@ -25,7 +25,7 @@
             do
             {
                 a++;
-                if (a % 18 == 0)
+                if (a % 19 == 0)
                 {
                     Console.WriteLine(a);
                 }
