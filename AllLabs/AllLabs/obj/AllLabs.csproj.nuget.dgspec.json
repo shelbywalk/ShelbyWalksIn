@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\AllLabs\\AllLabs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\AllLabs\\AllLabs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\AllLabs\\AllLabs.csproj",
+        "projectName": "AllLabs",
+        "projectPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\AllLabs\\AllLabs.csproj",
+        "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\AllLabs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\LabsInterface\\LabsInterface.csproj": {
+                "projectPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\LabsInterface\\LabsInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\LabsInterface\\LabsInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\LabsInterface\\LabsInterface.csproj",
+        "projectName": "LabsInterface",
+        "projectPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\LabsInterface\\LabsInterface.csproj",
+        "packagesPath": "C:\\Users\\Dr.Drobitel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dr.Drobitel\\source\\repos\\AllLabs\\LabsInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dr.Drobitel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
